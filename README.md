@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kalfa
 - 👀 I’m interested in creating software
-- 👀 I’m interested in the intersection between engineering and people leadership 
+- 👀 I’m interested in the helping people to be their best, at least technically
 - 🌱 I’m currently learning
 - 💞️ I’m looking to collaborate on open source hone automation 
 
