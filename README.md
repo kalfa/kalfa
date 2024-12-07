@@ -2,7 +2,7 @@
 - 👀 I’m interested in creating software
 - 👀 I’m interested in the helping people to be their best, at least technically
 - 🌱 I’m currently learning
-- 💞️ I’m looking to collaborate on open source hone automation 
+- 💞️ I’m working on open source home automation projects
 
 
 <!---
